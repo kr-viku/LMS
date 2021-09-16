@@ -1,0 +1,33 @@
+.CustomOptionCard{
+    height: 38px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 10px;
+    
+
+}
+
+.CustomOptionCard .Option{
+    display: flex;
+    border: 2px solid #EF6315;
+    border-style: dotted;
+    border-radius: 6px;
+    width: 92%;
+    margin-left: 19px;
+}
+
+.CustomOptionCard .AddButton {
+    border: none;
+    color: #EF6315;
+    
+}
+
+.CustomOptionCard .OptionText{
+    font-size: 12px;
+    text-decoration: none;
+    float: left;
+    margin: unset;
+}
+

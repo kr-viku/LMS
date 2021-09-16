@@ -1,0 +1,140 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  overflow:hidden;
+  background-color: #ECECEC;
+  color: #505050;
+
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.ant-card{
+  color:  #505050;
+  background-color: #FFFFFF;
+}
+
+.card{
+  color:  #505050;
+  background-color:#FFFFFF;
+}
+h1{
+  color: #505050;
+}
+a{
+  color: #505050;
+}
+
+.ant-input{
+  color: #505050;
+  background-color: #FFFFFF;
+}
+
+.FileCard{
+  background-color: rgba(31,141,237,1);
+}
+
+.DisplayFile{
+  background-color: rgba(31,141,237,1);
+}
+
+.ant-input-number-input-wrap{
+  color:#FFFFFF
+}
+
+.ant-list-item{
+  color: #505050;
+  background-color: #F0F7FC;
+}
+
+.ant-input-group-addon{
+  color:#505050;
+  background-color:#FFFFFF;
+}
+.ant-btn{
+color:#505050;
+background-color:transparent;
+}
+
+.card-footer{
+  background-color: #D7E7F4;
+}
+
+.card-header{
+  background-color: #D7E7F4;
+}
+
+.ant-timeline-item-head{
+  background-color: #FFFFFF;
+}
+
+.Active .ant-timeline-item-head{
+  background-color: blue;
+}
+
+.Active .ant-timeline-item-head svg {
+  fill: white;
+}
+
+h3 {
+  opacity: 0.9;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: #505050;
+}
+
+.ant-card-body {
+  padding: 2px; 
+}
+
+.ant-timeline-item-head{
+border-radius: 50%;
+height: 32px;
+width:32px;
+background-color:#FFFFFF;
+}
+
+.ant-timeline-item-head-custom {
+ padding:0px;
+}
+
+.ant-timeline-item-tail{
+ border-left: 2px solid #61dafb;
+
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+textarea.ant-input {
+  width: 90%;
+}
+
+.collabItems .ant-list-item{
+  padding-left: 10px;
+  padding-right: 10px;
+}

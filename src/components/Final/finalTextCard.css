@@ -1,0 +1,10 @@
+.FinalTextCard{
+    width: 70%;
+    text-align: left;
+    position: relative;
+    left: 15%;
+}
+
+.FinalText{
+    font-size:16px;
+}

@@ -1,0 +1,46 @@
+
+
+.DisplayFileCard{
+    overflow:hidden;
+}
+
+.DisplayFileName{
+    padding:5px;
+    font-size:18px;
+    text-align: left;
+    margin:5px;
+    color:whitesmoke;
+    width:75%;
+    font-weight: bold;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80%;
+    height: 35px;
+    white-space: nowrap;
+}
+
+.DisplayFileSize{
+    font-size:12px;
+    position: absolute;
+    left:5px;
+    color:whitesmoke
+}
+
+.DisplayFileView{
+    float: right;
+    margin: 5px;
+    bottom: 40px;
+}
+
+.DisplayPDFTitle{
+    text-align: left;
+    margin:10px;
+    font-size:18px;
+    font-weight: bold;
+}
+
+.DisplayFileDescription{
+    text-align: left;
+    margin:5px;
+    font-size: 15px;
+}

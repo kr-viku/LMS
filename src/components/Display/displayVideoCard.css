@@ -1,0 +1,9 @@
+.DisplayVideoCard{
+    overflow: hidden;
+}
+
+.DisplayVideoCaption{
+    text-align:left;
+    font-size:18px;
+    padding:10px;
+}

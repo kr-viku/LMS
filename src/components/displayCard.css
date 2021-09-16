@@ -1,0 +1,47 @@
+.Card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    ;
+    border: rgb(193, 178, 245);
+    border-radius: 10px;
+    max-height: 200px;
+    min-height: 30px;
+    overflow: hidden;
+    text-align: justify;
+
+}
+
+
+
+.TimeLineSider .ant-card-body{
+    height: 100%;
+}
+
+.CardContent {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    margin: 5px;
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+}
+
+Image {
+    object-fit: fill;
+}
+
+.Card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.ant-image {
+    height: 100%;
+    width: 100%;
+}
+
+.ant-image-img {
+    height: 100%;
+    width: 100%;
+
+}

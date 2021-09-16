@@ -1,0 +1,30 @@
+.AddPollOptionCard{
+    height: 38px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 10px;
+    
+
+}
+
+.AddPollOptionCard .Option{
+    display: flex;
+    border: 2px solid grey;
+    border-style: dotted;
+    border-radius: 6px;
+    width: 92%;
+    margin-left: 19px;
+}
+
+.AddPollOptionCard .AddButton {
+    border: none;
+}
+
+.OptionText{
+    font-size: 12px;
+    margin: auto auto;
+    text-decoration: none;
+}
+

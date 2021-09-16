@@ -1,0 +1,28 @@
+.AddOptionCard{
+    height: 38px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 10px;    
+}
+
+.AddOptionCard .Option{
+    display: flex;
+    border: 2px solid grey;
+    border-style: dotted;
+    border-radius: 6px;
+    width: 86%;
+    margin-left: 49px;
+}
+
+.AddOptionCard .AddButton {
+    border: none;
+}
+
+.OptionText{
+    font-size: 12px;
+    margin: auto auto;
+    text-decoration: none;
+}
+

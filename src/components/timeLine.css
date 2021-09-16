@@ -1,0 +1,16 @@
+.ant-timeline-item{
+    margin:1%;
+    float:right;
+    width:100%;
+    text-align:unset;
+  }
+
+  .ant-timeline-item-head{
+    border-radius: 50%;
+    height: 32px;
+    width:32px;
+    }
+    
+    .ant-timeline-item-head-custom {
+      padding:0px;
+    }

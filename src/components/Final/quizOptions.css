@@ -1,0 +1,14 @@
+.optionTexts.ShowRightAnswers{
+    Border:1px solid green;
+}
+.optionType.ShowRightAnswers > .ant-checkbox-inner{
+ background-color: green;
+}
+
+.optionTexts.ShowWrongAnswers{
+    border: 1px solid red;
+}
+
+.optionType.ShowWrongAnswers > .ant-checkbox-input{
+    background-color:red;
+}

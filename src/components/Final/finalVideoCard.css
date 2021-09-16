@@ -1,0 +1,11 @@
+.FinalVideoCard{
+    width: 70%;
+    text-align: left;
+    position: relative;
+    left: 15%;
+}
+
+video{
+    height: 350px;
+    border-radius: 15px 15px 0px 0px;
+}

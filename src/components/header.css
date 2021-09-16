@@ -1,0 +1,27 @@
+
+.wrapper {
+  font-family: 'Raleway', sans-serif;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  width:100%;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: top;
+}
+
+h1 {
+  opacity: 0.9;
+  overflow: hidden;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 25px;
+}
+
+button + button {
+  margin-left: 10px;
+}

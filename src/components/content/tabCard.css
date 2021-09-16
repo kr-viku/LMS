@@ -1,0 +1,57 @@
+.ant-tabs{
+    height:100%;
+}
+
+.ant-tabs > .ant-tabs-nav .ant-tabs-nav-wrap{
+    background-color: rgba(215,231,244,1);
+    border-radius: 0px 0px 15px 15px;
+    padding-left:10px;
+}
+
+.AddItemsCard{
+    height: 30%;
+}
+
+
+.card-footer{
+    padding:0px;
+}
+
+.FooterButtons Button{
+    margin-left:0px;
+    
+}
+
+.FooterButtons{
+    text-align: left;
+}
+
+.ant-btn > .anticon {
+    line-height: 2;
+   
+}
+
+.FooterButtons > .ant-btn{
+    border: 0px solid transparent;
+    background-color: transparent;
+}
+
+.ant-btn > .anticon > svg{
+    font-size:1.7rem;
+}
+
+.ant-btn >.anticon{
+    color: #797575;
+}
+
+.ant-btn >.anticon:hover{
+    color: #464646;
+}
+.anticon-plus{
+    font-size: 2.5rem;
+    padding:30px;
+    color: #797575;
+}
+
+
+

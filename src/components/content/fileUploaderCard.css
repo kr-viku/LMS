@@ -1,0 +1,60 @@
+.FileCard{
+    min-height: 80px;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.card-text.FileAddButton{
+    position: absolute;
+    left: 40%;
+    color: white;
+    top:25px;
+    font-size:20px;
+}
+
+.FileName{
+    margin:5px;
+    color:whitesmoke;
+    text-align:left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80%;
+    height: 35px;
+    white-space: nowrap;
+
+}
+
+.FileTitle textarea{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.FileTitle{
+    padding:10px;
+}
+
+.FileDesc{
+    padding:10px;
+}
+
+.fileSize{
+    position: absolute;
+    left: 5px;
+    color: whitesmoke;
+    font-size: 15px;
+    top: 45px;
+}
+
+.DeleteButton{
+    position: absolute;
+    top: 15px;
+    right: 5px;
+    color:whitesmoke;
+}   
+
+.FileView{
+    position: absolute;
+    right: 10%;
+    top: 25px;
+}

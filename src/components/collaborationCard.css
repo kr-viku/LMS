@@ -1,0 +1,21 @@
+
+.collabItems{
+    overflow: scroll;
+    height: 95%;
+    margin-top: 5px;
+}
+
+.collabItems::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .collabItems {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  }
+
+.SiderStart{
+    margin:5px;
+    height:100%;
+}

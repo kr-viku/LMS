@@ -1,0 +1,16 @@
+.FinalTitleCard{
+    width: 70%;
+    text-align:left;
+    position: relative;
+    left: 15%;
+}
+
+.Finals >.card-body{
+    padding: 0px 10px;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.Finals{
+    width:90%;
+}

@@ -1,0 +1,16 @@
+.EditorArea{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.EditorButtons{
+    font-size: 20px;
+    height: 35px;
+    transition: ease-in 2s;
+}
+
+.ToggleButton{
+    width: 5%;
+    align-self: flex-end;
+    height: 35px;
+}

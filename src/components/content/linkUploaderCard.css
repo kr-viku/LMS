@@ -1,0 +1,42 @@
+  
+
+.LinkAddButton{
+    position: absolute;
+    left: 10px;
+    color: white;
+    top: 25px;
+    width: 95%;
+}
+
+.LinkName{
+    margin: 5px;
+    left: 5px;
+    top: 20px;
+    position: absolute;
+    color: whitesmoke;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80%;
+    height: 35px;
+    white-space: nowrap;
+}
+
+.LinkTitle textarea{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.LinkTitle{
+    padding:10px;
+}
+
+.LinkDesc{
+    padding:10px;
+}
+
+.LinkView{
+    position: absolute;
+    right: 10%;
+    top: 25px;
+}

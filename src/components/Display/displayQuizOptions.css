@@ -1,0 +1,9 @@
+.optionTexts.DisplayRightOption{
+    Border:1px solid green;
+}
+
+
+.optionTexts.DisplayWrongOption{
+    border: 1px solid red;
+}
+

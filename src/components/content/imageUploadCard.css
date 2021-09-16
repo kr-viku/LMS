@@ -1,0 +1,40 @@
+.card-body{
+    padding: 0px;
+}
+
+.card{
+    margin-bottom: 0px;
+}
+
+textarea.ant-input {
+    width:90%;
+    float:left;
+}
+
+.ant-input-textarea-show-count::after{
+    font-size: 12px;
+}
+
+.ImageTitle textarea{
+    font-weight:bold;
+    font-size:15px;
+}
+
+.ImageTitle{
+    padding:10px;
+}
+
+.ImageUploadCard{
+    transition: all 2s ease;
+}
+
+.CloseButton{
+    position: absolute;
+    right: 5px;
+}
+
+
+
+.CloseButton.ant-btn > .anticon > svg{
+    font-size:1.3rem;
+}

@@ -1,0 +1,35 @@
+.PollCard{
+
+}
+
+.CloseButton {
+    position: absolute;
+    right: 5px;
+}
+
+.PollQuestion ,.PollExplanation{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.PollQuestion {
+    margin-top: 20px;
+    display: flex;
+}
+
+.PollQuestion .ant-input{
+    font-size: 24px;
+    font-weight: 700;
+    width: 90%;
+}
+
+.PollExplanation{
+    min-height: 75px;
+}
+
+.PollCard .OptionList{
+    margin:auto;
+    display: inline;
+    
+}
+

@@ -1,0 +1,40 @@
+.QuizCard{
+
+}
+
+.CloseButton {
+    position: absolute;
+    right: 5px;
+}
+
+.QuizQuestion ,.QuizExplanation{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.QuizQuestion {
+    margin-top: 20px;
+    display:flex;
+}
+
+.QuizQuestion .ant-input{
+    font-size: 24px;
+    font-weight: 700;
+    width: 90%;
+}
+
+.QuizExplanation{
+    min-height: 75px;
+    width: 90%;
+}
+
+.QuizExplanation .ant-input{
+    width: 80%;
+}
+
+.OptionList{
+    margin:auto;
+    display: inline;
+    
+}
+

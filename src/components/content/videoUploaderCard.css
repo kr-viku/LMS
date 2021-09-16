@@ -1,0 +1,52 @@
+.card{
+    margin:15px 0px;
+    border-radius:15px;
+    border:0px;
+    height:50%;
+}
+
+.card-img{
+    height:300px;
+    width:100%;
+    object-fit:fill;
+    
+}
+
+.Videocard{
+    border-radius :15px 15px 0px 0px;
+}
+
+
+
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+
+.card-text.AddButton{
+    top:80%;
+    position: absolute;
+    text-align:center;
+    width:100%;
+    color: #4F4F4F;
+}
+
+.card-text.DeleteButton{
+float:right;
+}
+
+.card-img-overlay{
+    margin: 35px;
+    bottom: 40px;
+}
+
+.VideoTitle textarea{
+    font-weight:bold;
+    font-size:15px;
+}
+
+.VideoTitle{
+    padding:10px;
+}

@@ -1,0 +1,47 @@
+.card-header{
+    padding:0px;
+    font-size:15px;
+}
+
+.DisplayImageCard{
+    overflow:hidden;
+}
+
+.card-header:first-child{
+    border-radius: 15px 15px 0px 0px;
+}
+
+.DisplayImage{
+    padding:10px;
+}
+
+.DisplayPoints{
+    position: absolute;
+    right: 25%;
+    top:10px;
+}
+
+.DisplayComments{
+    position: absolute;
+    right: 5%;
+}
+
+.DisplayCommentIcon{
+    height: 20px;
+    opacity: 75%;
+}
+
+.isComment{
+    float: right;
+    font-size: 35px;
+    height: 5px;
+    position: relative;
+    bottom: 10px;
+    color: dodgerblue;
+}
+
+.DisplayImageCaption{
+    text-align: left;
+    font-size:18px;
+    padding:10px;
+}

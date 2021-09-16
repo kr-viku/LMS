@@ -1,0 +1,12 @@
+.DisplayQuizQuestion{
+    padding:10px;
+}
+
+.DisplayQuizExplanation{
+    padding:10px;
+    font-size:18px;
+}
+
+.DisplayQuizCard{
+    text-align: left;
+}

@@ -1,0 +1,11 @@
+.Comment{
+    width:100%;
+    right:5px;
+}
+
+.CommentArea{
+    width: 30%;
+    position: relative;
+    right: 5px;
+    float: right;
+}

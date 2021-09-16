@@ -1,0 +1,50 @@
+.PollOptionCard{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Option{
+    display: flex;
+}
+
+.PollOptionCard .optionTexts{
+    border-style: dotted;
+    height: 38px;
+    border-radius: 6px;
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+
+
+
+.optionTexts .ant-btn:hover{
+    border-color: none;
+    box-shadow: none;
+}
+.optionTexts .ant-input:focus{
+    border-color: none;
+    box-shadow: none;
+}
+.Option .CloseButton{
+    position: relative;
+    right: 0px;
+    height: 38px;
+    border:none;
+}
+.rightOption{
+    border-color: green;
+}
+.wrongOption{
+    border-color: red;
+}
+.optionNumber{
+    float: left;
+    height: 36px;
+    padding: 2px;
+}
+
+.optionType{
+    margin: 5px;
+}
